@@ -3,7 +3,7 @@
 
 <p align="left"> - 🌱 I’m currently learning **Python, Django, AWS**  </p>
 
-<p align="left"> - 👨‍💻 All of my projects are available at [https://rashi-jaiswal.netlify.app/](https://rashi-jaiswal.netlify.app/)  </p>
+<p align="left"> - 👨‍💻 All of my projects are available at (https://rashi-jaiswal.netlify.app/)  </p>
 
 <p align="left"> - 💬 Ask me about **ReactJs , NodeJs** </p>
 
