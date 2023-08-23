@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rashi Jaiswal</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🌱 I’m currently learning **Python, Django, AWS**
+<p align="center"> - 🌱 I’m currently learning **Python, Django, AWS**  </p>
 
-- 👨‍💻 All of my projects are available at [https://rashi-jaiswal.netlify.app/](https://rashi-jaiswal.netlify.app/)
+<p align="center"> - 👨‍💻 All of my projects are available at [https://rashi-jaiswal.netlify.app/](https://rashi-jaiswal.netlify.app/)  </p>
 
-- 💬 Ask me about **ReactJs , NodeJs**
+<p align="center"> - 💬 Ask me about **ReactJs , NodeJs** </p>
 
-- 📫 How to reach me **rashijaiswal1405@gmail.com**
+<p align="center"> - 📫 How to reach me **rashijaiswal1405@gmail.com** </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
