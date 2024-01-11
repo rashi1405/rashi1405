@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Rashi Jaiswal</h1>
 <h3 align="left">A passionate Full Stack developer from India</h3>
 
-<p align="left"> - 💬 Ask me about **ReactJs , NodeJs** </p>
+<p align="left"> - 💬 Ask me about ** Python , AWS , ReactJs , NodeJs** </p>
 
-<p align="left"> - 🌱 I’m currently learning **Python, Django, AWS**  </p>
+<p align="left"> - 🌱 I’m currently learning **System Design**  </p>
 
 <p align="left"> - 👨‍💻 All of my projects are available at (https://rashi-jaiswal.netlify.app/)  </p>
 
