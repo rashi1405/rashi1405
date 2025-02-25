@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Rashi Jaiswal</h1>
 <h3 align="left">A passionate Full Stack developer from India</h3>
 
-<p align="left"> - 💬 Ask me about ** Python , Azure , ReactJs , NodeJs** </p>
+<p align="left"> - 💬 Ask me about ** Python , Django , Azure , ReactJs , NodeJs** </p>
 
 <p align="left"> - 🌱 I’m currently learning **System Design**  </p>
 
